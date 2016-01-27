@@ -1,0 +1,5 @@
+/Users/fujic/Documents/Develop/Charp/Curring/Async.Net3.5/bin/Debug/Async.Net3.5.exe.mdb
+/Users/fujic/Documents/Develop/Charp/Curring/Async.Net3.5/bin/Debug/Async.Net3.5.exe
+/Users/fujic/Documents/Develop/Charp/Curring/Async.Net3.5/obj/x86/Debug/Async.Net3.5.exe
+/Users/fujic/Documents/Develop/Charp/Curring/Async.Net3.5/obj/x86/Debug/Async.Net3.5.exe.mdb
+/Users/fujic/Documents/Develop/Charp/Curring/Async.Net3.5/obj/x86/Debug/.NETFramework,Version=v4.0.AssemblyAttribute.cs
