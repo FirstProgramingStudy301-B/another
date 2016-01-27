@@ -1,0 +1,9 @@
+E:\Develop\20_CSharp\VS2015\3.5Async\Net3.5AsyncConsole\AsyncForm\bin\Debug\AsyncForm.exe.config
+E:\Develop\20_CSharp\VS2015\3.5Async\Net3.5AsyncConsole\AsyncForm\bin\Debug\AsyncForm.exe
+E:\Develop\20_CSharp\VS2015\3.5Async\Net3.5AsyncConsole\AsyncForm\bin\Debug\AsyncForm.pdb
+E:\Develop\20_CSharp\VS2015\3.5Async\Net3.5AsyncConsole\AsyncForm\obj\Debug\AsyncForm.csprojResolveAssemblyReference.cache
+E:\Develop\20_CSharp\VS2015\3.5Async\Net3.5AsyncConsole\AsyncForm\obj\Debug\AsyncForm.Form1.resources
+E:\Develop\20_CSharp\VS2015\3.5Async\Net3.5AsyncConsole\AsyncForm\obj\Debug\AsyncForm.Properties.Resources.resources
+E:\Develop\20_CSharp\VS2015\3.5Async\Net3.5AsyncConsole\AsyncForm\obj\Debug\AsyncForm.csproj.GenerateResource.Cache
+E:\Develop\20_CSharp\VS2015\3.5Async\Net3.5AsyncConsole\AsyncForm\obj\Debug\AsyncForm.exe
+E:\Develop\20_CSharp\VS2015\3.5Async\Net3.5AsyncConsole\AsyncForm\obj\Debug\AsyncForm.pdb

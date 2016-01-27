@@ -1,0 +1,6 @@
+E:\Develop\20_CSharp\VS2015\3.5Async\Net3.5AsyncConsole\Net3.5AsyncConsole\bin\Debug\Net3.5AsyncConsole.exe.config
+E:\Develop\20_CSharp\VS2015\3.5Async\Net3.5AsyncConsole\Net3.5AsyncConsole\obj\Debug\Net3.5AsyncConsole.csprojResolveAssemblyReference.cache
+E:\Develop\20_CSharp\VS2015\3.5Async\Net3.5AsyncConsole\Net3.5AsyncConsole\bin\Debug\Net3.5AsyncConsole.exe
+E:\Develop\20_CSharp\VS2015\3.5Async\Net3.5AsyncConsole\Net3.5AsyncConsole\bin\Debug\Net3.5AsyncConsole.pdb
+E:\Develop\20_CSharp\VS2015\3.5Async\Net3.5AsyncConsole\Net3.5AsyncConsole\obj\Debug\Net3.5AsyncConsole.exe
+E:\Develop\20_CSharp\VS2015\3.5Async\Net3.5AsyncConsole\Net3.5AsyncConsole\obj\Debug\Net3.5AsyncConsole.pdb
