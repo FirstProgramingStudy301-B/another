@@ -75,14 +75,14 @@ class BeginDNS{
 }/*}}}*/
 class TaskPing
 {
-  public async void Run()
+  public  void Run()
   {
     var scop = "172.29.111.";
     //var scop = "216.239.32.";
     Console.WriteLine(scop + 81);
-    var tRes = taskPing(scop + "81");
+    //var tRes = await taskPing(scop + "81");
     //Console.WriteLine(await tRes);
-    var ress = Enumerable.Range(0,254).Select(i => taskPing(scop+i));
+    var ress = Enumerable.Range(0,254).Select(async i => await taskPing(scop+i));
     foreach(var itm in ress)
     {
       Console.WriteLine(itm.Result.ToString());
@@ -94,10 +94,8 @@ class TaskPing
     IPAddress ipAdr = null;
     var ipchk = IPAddress.TryParse(ip,out ipAdr);
     if(ipchk == false) return string.Format("{0}: Can not Convert IPAddress",ip);
-    //var ping = new Ping();
     string res = string.Empty;
     try{
-
       var reply = await (new Ping()).SendPingAsync(ipAdr,1000);
       res = reply.Status == IPStatus.Success ? "OK":"NG";
     }catch(Exception ex){
