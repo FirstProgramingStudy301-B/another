@@ -2,10 +2,12 @@ using System;
 
 delegate void HelloDelegate(string name);
 class Button{
+  // event 識別子をつけてDelegateを公開
+  //その際何も実行しないrambdaを登録、NullExpection防止
   public event HelloDelegate SomeEvent = _ => {};
-  //Call Event
   public void Clicked(string name){
     Console.WriteLine("<Button Clicked>");
+    //Call Event
     SomeEvent(name);
   }
 }
