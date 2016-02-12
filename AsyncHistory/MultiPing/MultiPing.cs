@@ -36,7 +36,7 @@ class BeginDNS{
     for(int index=0; index < myRequestState.host.AddressList.Length; index++)
     {
       Console.WriteLine(myRequestState.host.AddressList[index]);
-    }      
+    }
     Console.WriteLine("\nAliases : ");
     for(int index=0; index < myRequestState.host.Aliases.Length; index++)
     {
@@ -77,18 +77,17 @@ class TaskPing
 {
   public async void Run()
   {
-    var scop = "172.29.11.";
+    var scop = "216.239.32.";
     Console.WriteLine(scop + 81);
     var tRes = taskPing(scop + "81");
     Console.WriteLine(await tRes);
     return;
-    var ress = Enumerable.Range(81,96).Select(i => taskPing(scop+i));
+    var ress = Enumerable.Range(0,254).Select(i => taskPing(scop+i));
     foreach(var itm in ress)
     {
       Console.WriteLine(itm.Result.ToString());
     }
     Console.ReadKey();
-    
   }
   async Task<string> taskPing(string ip)
   {
@@ -100,7 +99,6 @@ class TaskPing
 }
 class MultiPings
 {
-
   public static void Main(string[] args)
   {
     //var beginDNS = new BeginDNS();
