@@ -1,0 +1,6 @@
+E:\Develop\20_CSharp\VS2015\StdIn_StdOut\MultiPing\MultiPin3.0\obj\Debug\MultiPin3.0.csprojResolveAssemblyReference.cache
+E:\Develop\20_CSharp\VS2015\StdIn_StdOut\MultiPing\MultiPin3.0\bin\Debug\MultiPin3.0.exe.config
+E:\Develop\20_CSharp\VS2015\StdIn_StdOut\MultiPing\MultiPin3.0\bin\Debug\MultiPin3.0.exe
+E:\Develop\20_CSharp\VS2015\StdIn_StdOut\MultiPing\MultiPin3.0\bin\Debug\MultiPin3.0.pdb
+E:\Develop\20_CSharp\VS2015\StdIn_StdOut\MultiPing\MultiPin3.0\obj\Debug\MultiPin3.0.exe
+E:\Develop\20_CSharp\VS2015\StdIn_StdOut\MultiPing\MultiPin3.0\obj\Debug\MultiPin3.0.pdb

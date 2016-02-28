@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiPing", "MultiPing\MultiPing.csproj", "{441B6C60-9D19-4945-8F8E-9F1E6DC0C816}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiPin3.0", "MultiPin3.0\MultiPin3.0.csproj", "{48CA924F-A1FB-4846-8AAA-3EC117E668AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{441B6C60-9D19-4945-8F8E-9F1E6DC0C816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{441B6C60-9D19-4945-8F8E-9F1E6DC0C816}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{441B6C60-9D19-4945-8F8E-9F1E6DC0C816}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{441B6C60-9D19-4945-8F8E-9F1E6DC0C816}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48CA924F-A1FB-4846-8AAA-3EC117E668AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48CA924F-A1FB-4846-8AAA-3EC117E668AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48CA924F-A1FB-4846-8AAA-3EC117E668AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48CA924F-A1FB-4846-8AAA-3EC117E668AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

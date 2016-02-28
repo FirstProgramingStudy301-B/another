@@ -1,0 +1,6 @@
+E:\Develop\20_CSharp\VS2015\StdIn_StdOut\MultiPing\MultiPing\bin\Debug\MultiPing.exe.config
+E:\Develop\20_CSharp\VS2015\StdIn_StdOut\MultiPing\MultiPing\obj\Debug\MultiPing.csprojResolveAssemblyReference.cache
+E:\Develop\20_CSharp\VS2015\StdIn_StdOut\MultiPing\MultiPing\bin\Debug\MultiPing.exe
+E:\Develop\20_CSharp\VS2015\StdIn_StdOut\MultiPing\MultiPing\bin\Debug\MultiPing.pdb
+E:\Develop\20_CSharp\VS2015\StdIn_StdOut\MultiPing\MultiPing\obj\Debug\MultiPing.exe
+E:\Develop\20_CSharp\VS2015\StdIn_StdOut\MultiPing\MultiPing\obj\Debug\MultiPing.pdb

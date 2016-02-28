@@ -75,15 +75,15 @@ class BeginDNS{
 }/*}}}*/
 class TaskPing
 {
-  public  void Run()
+  public async  void Run()
   {
     var scop = "172.29.111.";
     //var scop = "216.239.32.";
     Console.WriteLine(scop + 81);
-    //var tRes = await taskPing(scop + "81");
-    //Console.WriteLine(await tRes);
+    var tRes = await taskPing(scop + "81");
+    Console.WriteLine(tRes);
     var ress = Enumerable.Range(0,254).Select(async i => await taskPing(scop+i));
-    foreach(var itm in ress)
+    foreach(var itm in ress.ToList())
     {
       Console.WriteLine(itm.Result.ToString());
     }
