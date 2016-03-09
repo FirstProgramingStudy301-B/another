@@ -1,0 +1,5 @@
+/Users/fujic/Documents/Develop/Charp/DesignPattern00/DesignPattern00/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/fujic/Documents/Develop/Charp/DesignPattern00/DesignPattern00/bin/Debug/DesignPattern00.exe.mdb
+/Users/fujic/Documents/Develop/Charp/DesignPattern00/DesignPattern00/bin/Debug/DesignPattern00.exe
+/Users/fujic/Documents/Develop/Charp/DesignPattern00/DesignPattern00/obj/x86/Debug/DesignPattern00.exe
+/Users/fujic/Documents/Develop/Charp/DesignPattern00/DesignPattern00/obj/x86/Debug/DesignPattern00.exe.mdb

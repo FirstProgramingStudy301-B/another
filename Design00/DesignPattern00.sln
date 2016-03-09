@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesignPattern00", "DesignPattern00\DesignPattern00.csproj", "{1DFEECF8-0AF4-4F8D-8AB6-9922FA80C5BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleStdInOut", "ConsoleStdInOut\ConsoleStdInOut.csproj", "{699A3787-7CFA-440B-9537-B13CFCB6474F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DFEECF8-0AF4-4F8D-8AB6-9922FA80C5BC}.Debug|x86.ActiveCfg = Debug|x86
+		{1DFEECF8-0AF4-4F8D-8AB6-9922FA80C5BC}.Debug|x86.Build.0 = Debug|x86
+		{1DFEECF8-0AF4-4F8D-8AB6-9922FA80C5BC}.Release|x86.ActiveCfg = Release|x86
+		{1DFEECF8-0AF4-4F8D-8AB6-9922FA80C5BC}.Release|x86.Build.0 = Release|x86
+		{699A3787-7CFA-440B-9537-B13CFCB6474F}.Debug|x86.ActiveCfg = Debug|x86
+		{699A3787-7CFA-440B-9537-B13CFCB6474F}.Debug|x86.Build.0 = Debug|x86
+		{699A3787-7CFA-440B-9537-B13CFCB6474F}.Release|x86.ActiveCfg = Release|x86
+		{699A3787-7CFA-440B-9537-B13CFCB6474F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal

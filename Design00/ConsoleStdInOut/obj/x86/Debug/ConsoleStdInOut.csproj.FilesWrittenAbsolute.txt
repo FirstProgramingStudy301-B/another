@@ -1,0 +1,10 @@
+/Users/fujic/Documents/Develop/Charp/DesignPattern00/ConsoleStdInOut/bin/Debug/Shell.sh
+/Users/fujic/Documents/Develop/Charp/DesignPattern00/ConsoleStdInOut/bin/Debug/ConsoleStdInOut.exe.mdb
+/Users/fujic/Documents/Develop/Charp/DesignPattern00/ConsoleStdInOut/bin/Debug/ConsoleStdInOut.exe
+/Users/fujic/Documents/Develop/Charp/DesignPattern00/ConsoleStdInOut/obj/x86/Debug/ConsoleStdInOut.exe
+/Users/fujic/Documents/Develop/Charp/DesignPattern00/ConsoleStdInOut/obj/x86/Debug/ConsoleStdInOut.exe.mdb
+/Users/fujic/Documents/Develop/Charp/Curring/Async.Net3.5/Design00/ConsoleStdInOut/bin/Debug/Shell.sh
+/Users/fujic/Documents/Develop/Charp/Curring/Async.Net3.5/Design00/ConsoleStdInOut/bin/Debug/ConsoleStdInOut.exe.mdb
+/Users/fujic/Documents/Develop/Charp/Curring/Async.Net3.5/Design00/ConsoleStdInOut/bin/Debug/ConsoleStdInOut.exe
+/Users/fujic/Documents/Develop/Charp/Curring/Async.Net3.5/Design00/ConsoleStdInOut/obj/x86/Debug/ConsoleStdInOut.exe
+/Users/fujic/Documents/Develop/Charp/Curring/Async.Net3.5/Design00/ConsoleStdInOut/obj/x86/Debug/ConsoleStdInOut.exe.mdb

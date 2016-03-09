@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="ConsoleStdInOut/ConsoleStdInOut.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleStdInOut/Program.cs">
+    <Files>
+      <File FileName="ConsoleStdInOut/Shell.sh" Line="1" Column="1" />
+      <File FileName="ConsoleStdInOut/ChildConsole.cs" Line="1" Column="1" />
+      <File FileName="DesignPattern00/Program.cs" Line="1" Column="1" />
+      <File FileName="DesignPattern00/UseThread.cs" Line="1" Column="1" />
+      <File FileName="DesignPattern00/Gate.cs" Line="11" Column="3" />
+      <File FileName="ConsoleStdInOut/Program.cs" Line="26" Column="24" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

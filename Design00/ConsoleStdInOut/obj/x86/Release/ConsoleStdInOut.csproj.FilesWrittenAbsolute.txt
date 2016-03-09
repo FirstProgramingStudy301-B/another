@@ -1,0 +1,5 @@
+/Users/fujic/Documents/Develop/Charp/DesignPattern00/ConsoleStdInOut/bin/Release/ConsoleStdInOut.exe.mdb
+/Users/fujic/Documents/Develop/Charp/DesignPattern00/ConsoleStdInOut/bin/Release/ConsoleStdInOut.exe
+/Users/fujic/Documents/Develop/Charp/DesignPattern00/ConsoleStdInOut/obj/x86/Release/ConsoleStdInOut.exe
+/Users/fujic/Documents/Develop/Charp/DesignPattern00/ConsoleStdInOut/obj/x86/Release/ConsoleStdInOut.exe.mdb
+/Users/fujic/Documents/Develop/Charp/DesignPattern00/ConsoleStdInOut/bin/Release/Shell.sh
